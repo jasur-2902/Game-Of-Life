@@ -14,7 +14,7 @@ of internal cells as well as cells on the edge in the long run in most cases.
 If interested you can talk to me about that. But rather than that just make sure that you 
 do not count any cell with coordinates outside the grid as a neighbor. </i> 
 
-
+<b> * - dead cells, L - alive cells  </b>
 
 ![Image description](https://github.com/jasur-2902/Game-Of-Live/blob/master/img/Screen%20Shot%202019-12-31%20at%201.49.23%20AM.png?raw=true)
 
