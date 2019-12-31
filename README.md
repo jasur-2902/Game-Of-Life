@@ -1,4 +1,4 @@
-# Game-Of-Live
+# Game-Of-Life
 Popular Math Game - The Game of Life in C++
 
 Assignment: 
